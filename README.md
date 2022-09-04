@@ -1,2 +1,2 @@
 # UserLoginRegistrationBackend
-## Sample of backend app for user registration
+Sample of backend app for user registration
